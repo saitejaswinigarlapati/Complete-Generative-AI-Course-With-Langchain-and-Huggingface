@@ -1,0 +1,15 @@
+For enabling Conda itself in your current terminal session.
+C:\Users\garla\anaconda3\Scripts\activate.bat
+
+
+Creating new conda env
+conda create -p venv python==3.12
+
+Activate it
+conda activate venv
+
+
+git repo:
+https://github.com/krishnaik06/Complete-Python-Bootcamp/blob/main/requirements.txt
+
+streamlit.io
